@@ -33,6 +33,7 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 ## 📚 Libraries Used
 - DHT Sensor Library by Adafruit
 - Adafruit Unified Sensor Library
+  [View Arduino Code](dht11_led_buzzer.ino)
 
 ## 💻 Code Functions
 - `readTemperature()` – Reads the temperature.
@@ -41,8 +42,9 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 - `delay(1000)` – Waits for 1 second.
 
 ## 📟 Expected Output
--  Temperature above 31°C → 💡 LED ON + 🔔 Buzzer ON.
--  Temperature 31°C or below → 💡 LED OFF + 🔕 Buzzer OFF.
+-  Temperature above 31°C →  LED ON +  Buzzer ON.
+-  Temperature 31°C or below →  LED OFF +  Buzzer OFF.
+  ![DHT11 Project](dht11_led_buzzer.jpg)
 
 ## 🏠 Applications
 - Temperature monitoring systems
