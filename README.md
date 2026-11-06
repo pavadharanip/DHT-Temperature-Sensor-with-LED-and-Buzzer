@@ -24,6 +24,8 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 | Buzzer (+) | D4 |
 | Buzzer (-) | GND |
 
+![Project Image](Images/dht11.jpeg)
+
 ## ⚙️ Working Principle
 1.  DHT11 measures the surrounding temperature.
 2.  Arduino reads the temperature value.
@@ -44,7 +46,6 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 ## 📟 Expected Output
 -  Temperature above 31°C →  LED ON +  Buzzer ON.
 -  Temperature 31°C or below →  LED OFF +  Buzzer OFF.
-  ![DHT11 Project](dht11_led_buzzer.jpg)
 
 ## 🏠 Applications
 - Temperature monitoring systems
