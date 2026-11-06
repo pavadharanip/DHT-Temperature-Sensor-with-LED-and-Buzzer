@@ -24,7 +24,7 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 | Buzzer (+) | D4 |
 | Buzzer (-) | GND |
 
-![Project Image](Images/dht11.jpeg)
+![DHT11 Output](./dht11.jpeg)
 
 ## ⚙️ Working Principle
 1.  DHT11 measures the surrounding temperature.
