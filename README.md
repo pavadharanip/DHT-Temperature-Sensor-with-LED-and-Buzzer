@@ -1,4 +1,4 @@
-# 🌡️ DHT11 Temperature Sensor with LED and Buzzer 🔔
+# 🌡️ DHT11 TEMPERATURE SENSOR WITH LED AND BUZZER 🔔
 
 ## 📌 Project Description
 This project uses a DHT11 sensor to measure the surrounding temperature. When the temperature exceeds **31°C**, the LED and buzzer turn ON as an alert. Otherwise, both remain OFF.
