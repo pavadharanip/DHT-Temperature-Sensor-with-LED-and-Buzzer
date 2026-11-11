@@ -35,6 +35,7 @@ This project uses a DHT11 sensor to measure the surrounding temperature. When th
 ## 📚 Libraries Used
 - DHT Sensor Library by Adafruit
 - Adafruit Unified Sensor Library
+  
   [View Arduino Code](dht11_led_buzzer.ino)
 
 ## 💻 Code Functions
